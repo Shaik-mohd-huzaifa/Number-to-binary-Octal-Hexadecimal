@@ -27,9 +27,7 @@ function Clear() {
 }
 ```
 
-# first the number is converted to string because to do this thing in few lines we must
-
-convert the Number to string of take a direct string input but using a <code>input-type="text"</code> in html
+#### first the number is converted to string because to do this thing in few lines we must convert the Number to string of take a direct string input but using a <code>input-type="text"</code> in html
 
 ## The function which is used to convert the Number to binary. Here we have used tostring() and filled number "2" in the brackets, because the binary number has a of base 2
 
