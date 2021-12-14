@@ -2,7 +2,7 @@
 
 Here we will try to learn how to convert the Number to Binary, Octal, Hexadecimal
 
-here we are going to add some html, Css, And simple codes of javascript which together makes a Number to binary Converter
+### here we are going to add some html, Css, And simple codes of javascript which together makes a Number to binary Converter
 
 ## here's the code which we have used to make the logic of the converter
 
