@@ -1,5 +1,3 @@
-let Boolena = 12;
-console.log(Boolena.toString(16));
 
 function Binary() {
   let $numbere = document.getElementById("Number").value;
@@ -15,4 +13,11 @@ function Binary() {
 
 function Clear() {
   document.getElementById("Number").value = "";
+}
+
+
+function AllClear(){
+  document.getElementById("Binary").innerHTML = '';
+  document.getElementById("Octal").innerHTML = '';
+  document.getElementById("Hexa").innerHTML = '';
 }
