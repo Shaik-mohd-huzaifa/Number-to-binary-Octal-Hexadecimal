@@ -10,13 +10,14 @@ function Binary() {
   let $hexa = Conver.toString(16);
   document.getElementById("Hexa").innerHTML = $hexa;
 }
-
+/*
 function Clear() {
   document.getElementById("Number").value = "";
 }
-
+*/
 
 function AllClear(){
+  document.getElementById("Number").value = "";
   document.getElementById("Binary").innerHTML = '';
   document.getElementById("Octal").innerHTML = '';
   document.getElementById("Hexa").innerHTML = '';
