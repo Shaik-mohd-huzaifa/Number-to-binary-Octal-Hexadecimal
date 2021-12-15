@@ -23,8 +23,6 @@ function AllClear(){
   document.getElementById("Hexa").innerHTML = '';
 }
 
-function Copy{
 // Prompt Which takes Name and displays on screen
 let visitors = prompt("Enter your name" + "\n" + "so that there is a two way Communication");
-document.getElementById("VisiterName").innerHTML = visitors; 
-}
+document.getElementById("VisiterName").innerHTML = (`Hey ${visitors}!! lets Convert Numbers into Something Else`); 
