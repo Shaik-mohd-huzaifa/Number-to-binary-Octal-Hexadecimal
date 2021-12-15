@@ -18,7 +18,7 @@ body {
   color: white;
   padding: 5%;
   border-radius: 20px;
-  backdrop-filter: blur(10);
+  backdrop-filter: blur();
 }
 #Number {
   border-radius: 3px;
