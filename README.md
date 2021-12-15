@@ -1,3 +1,7 @@
+### link to visit the webpage
+
+<link href="https://shaik-mohd-huzaifa.github.io/Number-to-binary-Octal-Hexadecimal/">
+
 # Number-to-binary-Octal-Hexadecimal
 
 Here we will try to learn how to convert the Number to Binary, Octal, Hexadecimal
