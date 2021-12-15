@@ -24,5 +24,5 @@ function AllClear(){
 }
 
 // Prompt Which takes Name and displays on screen
-let visitors = prompt("Enter your name" + "\n" + "so that there is a two way Communication");
-document.getElementById("VisiterName").innerHTML = (`Hey ${visitors}!! lets Convert Numbers into Something Else`); 
+//let visitors = prompt("Enter your name" + "\n" + "so that there is a two way Communication");
+//document.getElementById("VisiterName").innerHTML = (`Hey ${visitors}!! lets convert numbers into something else`); 
