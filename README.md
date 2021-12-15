@@ -52,3 +52,14 @@ variable - name.toString(8);
 ```javascript
 variable - name.toString(16);
 ```
+
+## Added a prompt to fetch visiters name to make it two way
+
+```javascript{
+  function Copy{
+// Prompt Which takes Name and displays on screen
+let visitors = prompt("Enter your name" + "\n" + "so that there is a two way Communication");
+document.getElementById("VisiterName").innerHTML = visitors;
+}
+}
+```
