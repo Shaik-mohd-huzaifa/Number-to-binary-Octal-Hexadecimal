@@ -20,13 +20,17 @@ body {
   border-radius: 20px;
   backdrop-filter: blur();
 }
+h1 {
+  color: black;
+  font-size: 2em;
+}
 #Number {
   border-radius: 3px;
   border: 0px;
   margin-left: 10px;
   height: 20px;
+  font-family: Rubik;
 }
-
 #Number::placeholder {
   font-size: 13px;
   color: rgba(76, 0, 130, 0.671);
