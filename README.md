@@ -1,6 +1,4 @@
-### link to visit the webpage
-
-<link href="https://shaik-mohd-huzaifa.github.io/Number-to-binary-Octal-Hexadecimal/">
+### [link to visit the webpage](https://shaik-mohd-huzaifa.github.io/Number-to-binary-Octal-Hexadecimal/)
 
 # Number-to-binary-Octal-Hexadecimal
 
