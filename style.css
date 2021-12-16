@@ -44,6 +44,7 @@ footer {
 .social img:hover {
   transform: scale(1.05);
 }
+
 h6 {
   width: 50%;
   font-size: 15px;
@@ -55,8 +56,7 @@ h6 {
   margin-left: 20px;
   letter-spacing: 1px;
 }
-h6 span {
-}
+
 .social img {
   width: 30px;
   height: 30px;
@@ -76,6 +76,13 @@ h1 {
   font-family: montserrat;
   text-align: center;
   font-size: 4.5vw;
+  transition: all 0.5s ease;
+}
+h2 {
+  color: white;
+  font-family: montserrat;
+  text-align: center;
+  font-size: 4vw;
   transition: all 0.5s ease;
 }
 #Number {
