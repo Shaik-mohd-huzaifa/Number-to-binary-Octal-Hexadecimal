@@ -1,6 +1,4 @@
-### link to visit the webpage
-
-<link href="https://shaik-mohd-huzaifa.github.io/Number-to-binary-Octal-Hexadecimal/">
+### [link to visit the webpage](https://shaik-mohd-huzaifa.github.io/Number-to-binary-Octal-Hexadecimal/)
 
 # Number-to-binary-Octal-Hexadecimal
 
@@ -59,11 +57,10 @@ variable - name.toString(16);
 
 ## Added a prompt to fetch visiters name to make it two way
 
-```javascript{
-  function Copy{
+```javascript
+  function Copy(){
 // Prompt Which takes Name and displays on screen
 let visitors = prompt("Enter your name" + "\n" + "so that there is a two way Communication");
 document.getElementById("VisiterName").innerHTML = visitors;
-}
 }
 ```
