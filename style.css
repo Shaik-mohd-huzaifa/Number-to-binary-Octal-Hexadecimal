@@ -75,14 +75,14 @@ h1 {
   color: white;
   font-family: montserrat;
   text-align: center;
-  font-size: 4.5vw;
+  font-size: 40px;
   transition: all 0.5s ease;
 }
 h2 {
   color: white;
   font-family: montserrat;
   text-align: center;
-  font-size: 4vw;
+  font-size: 40px;
   transition: all 0.5s ease;
 }
 #Number {
